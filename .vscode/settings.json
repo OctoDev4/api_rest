@@ -1,0 +1,11 @@
+{
+  "sqltools.useNodeRuntime": true,
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "driver": "SQLite",
+      "database": "/home/woopxz/nome_do_banco_de_dados.db",
+      "name": "My"
+    }
+  ]
+}
