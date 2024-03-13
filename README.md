@@ -19,8 +19,9 @@ Como Usar
 
     Clone este repositório em sua máquina local.
     Instale as dependências usando npm install.
-    Execute as migrações do Knex para configurar o banco de dados usando npm run knext migrate:latest.
-    Inicie o servidor usando npm start.
+    Execute as migrações do Knex para configurar o banco de dados usando npm run knext -- migrate:latest.
+    Inicie o servidor usando npm run start.
+    Execute os teste com npm run test
     Explore a API e seus endpoints para gerenciar transações.
 
 Este projeto é uma ótima referência para quem está aprendendo a construir APIs com Fastify e Knex, e pode ser facilmente estendido com novos recursos e funcionalidades.
